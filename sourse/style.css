@@ -1,0 +1,9 @@
+.main {
+  height: 100%;
+  margin: 0;
+}
+
+.main_header {
+  height: 400px;
+  background-color: blueviolet;
+}
